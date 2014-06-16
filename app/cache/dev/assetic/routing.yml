@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /home/brettm/Sources/DevConf/example-frontend/app/config/routing_dev.yml
